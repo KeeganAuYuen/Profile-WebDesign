@@ -1,0 +1,55 @@
+
+
+	h1 {
+		color: #00ff00;
+		font-size: 45px;
+	}
+
+  body{
+    background-color: Black;
+  }
+
+
+	#box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8, #box9 {
+		width: 100px;
+    text-align: center;
+		height: 80px;
+		margin: auto;
+    background-color: #00ff00;
+		border-radius: 10px;
+		font-size: 50px;
+    color: black;
+	}
+
+
+	#button {
+		width: 95px;
+		height: 40px;
+    font-size: 20px;
+    background-color: #00ff00;
+		margin: auto;
+    border-radius: 10px;
+    border-color: white;
+		color: Black;
+
+		cursor: pointer;
+	}
+
+
+  #board{
+		text-align: center;
+	}
+
+  h2{
+    text-align: center;
+    color: #00ff00;
+  }
+
+
+
+
+	#finish {
+    font-size: 30px;
+		color: #00ff00 ;
+
+	}
